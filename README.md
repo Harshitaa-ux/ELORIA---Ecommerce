@@ -19,27 +19,6 @@ ELORIA is a modern, responsive, and user-friendly e-commerce website built using
 - CSS
 - JavaScript
 
-## 📂 Project Structure
-
-```text
-ELORIA/
-├── index.html
-├── style.css
-├── script.js
-└── images/
-    ├── banner.jpg
-    ├── product1.jpg
-    └── ...
-```
-
-## 🚀 Live Demo
-
-Add your GitHub Pages link here after deployment:
-
-```text
-https://yourusername.github.io/eloria-ecommerce/
-```
-
 ## 🎯 Purpose
 
 This project was developed to practice and demonstrate front-end web development skills, including responsive design, DOM manipulation, and creating an engaging shopping experience.
